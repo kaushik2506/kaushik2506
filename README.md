@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaushik2506
-- 👀 I’m interested in Azure Data Engineering Technologies, Azure Automation
-- 🌱 I’m currently learning PySpark, ADF, ADB, SQL, PowerBI
+- 👀 I’m interested in Python, Azure, Data Engineering Technologies, Azure Automation
+- 🌱 I’m currently learning Python, PySpark, ADF, ADB, SQL, PowerBI
 - 💞️ I’m looking to collaborate on Data Engineering
 - 📫 How to reach me kaushikthakur65@gmail.com
 
